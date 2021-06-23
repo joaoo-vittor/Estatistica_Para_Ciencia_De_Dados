@@ -10,7 +10,7 @@
 <h3>Objetivo do repositório 📝 🧾 📊 📈</h3>
 
 
-- Relizar meus estudos em estatística para ciência de dados.
+- Realizar meus estudos em estatística para ciência de dados.
 
 -------
 
