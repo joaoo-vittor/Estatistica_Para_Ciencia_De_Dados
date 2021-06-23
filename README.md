@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Estudo de Estatística para Ciência de Dados 📈 🎲🎲</h1>
   <h4>
-    <i>Status dos estudos</i>: Incompleto. 🚧 ⚠️
+    <i>Status dos estudos</i>: Completo. 🤓 🤓 🧑‍🎓
   </h4> 
 </div>
 
@@ -31,6 +31,6 @@
 
 - [X] **Intervalos de confiança e testes de hipóteses** [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DXw-HBVkxbhEQSWdOw94-JDba_3d8iiK?usp=sharing)
 
-- [ ] **Correlação e regressão** [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rTJIkxkLNvqYXw2NppFWgUW5IV7nf9Qt?usp=sharing) *(incompleto)*
+- [X] **Correlação e regressão** [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rTJIkxkLNvqYXw2NppFWgUW5IV7nf9Qt?usp=sharing) 
 
-- [ ] **Visualização** [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11UID5iyhJHiUGx7daUDF0LiCMAndYDaC?usp=sharing) *(incompleto)*
+- [X] **Visualização** [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11UID5iyhJHiUGx7daUDF0LiCMAndYDaC?usp=sharing) 
